@@ -44,5 +44,5 @@ describe ('Pruebas de validacion funcion adicionar usuario', function (){
     cy.get('#successBodyEdit').should('contain.text','Successfully Saved')
   })
 
-     
+     //en proceso
 })
